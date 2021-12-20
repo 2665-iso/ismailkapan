@@ -1,0 +1,13 @@
+[7,5,1,8,3,6,0,9,4,2] binary search tree projesi 
+
+root 6 sectim 
+
+                            6
+                          /   \
+                         4      8
+                        /\     / \
+                      3    5  7   9
+                    /
+                   2
+                  /
+                 0  
