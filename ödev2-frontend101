@@ -1,0 +1,59 @@
+<div>
+    <h1>Yusuf İ. KAPAN</h1>
+
+    <h2>Hakkımda</h2>
+    
+    <p>
+        
+    Merhaba ben Yusuf İ. KAPAN, Çanakkale'de yasıyorum. Komedi izlemeyi ve aksiyon filmlerini severim müzik olarak genelde
+    rock müziklerini ve edm dinlerim. Web geliştirme ile ilgili kendimi geliştirmek istiyorum. Bunlara ek Godfather
+    filmini 20 kere izlemiş olabilirim. Genelde dizi yerine film izlemeyi tercih ederim  
+    
+    
+    
+    </p>
+    <!-- Yukarıda hakkımda kısmı yazıldı -->
+    
+    <!-- İlgi alanlarım alt kısma yazıldı -->
+    
+    <h2>İlgi alanlarım</h2>
+    
+    <ol>
+        <li> <p>Filmler</p>
+            <ul>
+                <li><a href="https://www.imdb.com/title/tt0068646/">Godfather</a></li>
+                <li>Lorem ipsum dolor sit.</li>
+                <li>Lorem ipsum dolor sit amet.</li>
+            </ul>
+        </li>
+        
+            
+    
+        <li><p>Diziler</p></li>
+        <ul>
+            <li><a href="https://www.imdb.com/title/tt0108778/">Friends</a></li>
+            <li>Lorem, ipsum.</li>
+            <li>Lorem ipsum dolor sit.</li>
+        </ul>
+        
+    
+        <li><p>Kitaplar</p></li>
+        <ul>
+            <li><a href="goodreads.com/genres/mystery">Mystery</a></li>
+            <li>Lorem, ipsum dolor.</li>
+            <li>Lorem.</li>
+        </ul>
+    </ol>
+    
+    
+    <h2>Sevdiğim Diziler</h2>
+</div>
+
+
+
+
+<strong>Friends</strong><br>
+
+<div><img src="images/2.jpeg" width = "800" height ="400" alt="friends">
+</br>Friends 10 sene süren bir sitcom dizisidir
+</div>
