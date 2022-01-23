@@ -1,0 +1,61 @@
+# <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hakkımızda - Kişisel Web Sitesi</title>
+</head>
+<body>
+    <!-- navbar - start -->
+    <!-- navbar - end -->
+    <!-- section - start -->
+    <!-- article - start  -->
+    <!-- article - end  -->
+    <!-- section - end -->
+    <!-- footer - start -->
+    <!-- footer - end -->
+
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Anasayfa</a></li>
+                <li><a href="about-us.html">Hakkımızda</a></li>
+                <li><a href="contact.html">İletisim</a></li>
+            </ul>
+        </nav>
+</header>
+    
+
+    <section>
+        <article>
+            <img src="https://picsum.photos/id/217/600/300" alt="yazi-1">
+            <h2>Hakkımızda.</h2>
+            <p>Lorem ipsum dolor sit amet.</p>
+            <p>Nam nulla maiores incidunt esse!</p>
+            <p>Facilis velit voluptas libero commodi?</p>
+            <p>Ab aliquam dolorem mollitia natus?</p>
+            <p>Porro rerum excepturi necessitatibus quasi!</p>
+            <ol>
+                <li>Lorem ipsum dolor sit.</li>
+                <li>Deleniti similique inventore minus.</li>
+                <li>Id enim esse dolore?</li>
+                <li>Magnam amet blanditiis necessitatibus.</li>
+            </ol>
+            <hr>
+        </article>
+    </section>
+    
+    <footer>
+        <nav>
+            
+            <li><a href="index.html">Anasayfa</a></li>
+            <li><a href="about-us.html">Hakkımızda</a></li>
+            <li><a href="contact.html">İletisim</a></li>
+            
+
+
+        </nav>
+    </footer>
+</body>
+</html>
