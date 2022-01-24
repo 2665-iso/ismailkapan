@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Yemek Tarifleri</title>
+</head>
+<body style="background-color:#bd9494">
+    
+    
+
+    <header>
+        <nav>
+            <h1><em><strong>...Çikolata Küpleri...</h1></em></strong>
+            
+            <p><em>Çikolatalı ve şamfıstıklı tadımlık lezzetler... Yalnızca 4 malzeme ile hazırlanan çikolata küpleri
+             renkli kağıtlarda veya kürdan batırılarak servis edilir. Özellikle kalabalık sofralarda yer verilen
+             çikolata küpleri doğum günü gibi özel etkinliklerde sunulabilir       
+            </em>
+            <p>Lorem ipsum dolor sit.
+            </p>
+            </p>
+
+        <section>
+
+            <article align = "center">
+            <p><strong>Kaç Kişilik:</strong><em>6 Kişilik</em></p>
+            <p><strong>Hazırlama Süresi:</strong><em>20 Dakika</em></p>
+            <p><strong>Pişirme Süresi:</strong><em>25 Dakika</em></p>
+            </article> 
+            
+            <article align = "center">
+                <h2><strong>Çikolata küpleri tarifi için malzemeler</strong></h2>
+                <ul align = center>
+                    <li>350 gram bitter çikolata</li>
+                    <li>150 ml krema</li>
+                    <li>1 çorba kaşığı tereyağı</li>
+                    <li>150 gram şamfıstık</li>
+                </ul>
+            </article>
+
+            <article align = center>
+                <ol>
+                    <li>Bitter çikolatayı benmari usulü eritin</li>
+                    <li>Eriyen çikolatanın üzerine krema ve tereyağı ekleyip iyice karıştırın</li>
+                    <li>Şamfıstıkları havanda çok az dövüp irili ufaklı parçalara bölün</li>
+                    <li>Ufalanan fıstıkları çikolatalı karışıma ekleyip karıştırın</li>
+                    <li>Hazırladığınız çikolatayı varsa aliminyum hazır bir kare tepsiye yerleştirin</li>
+                    <li>Buzdolabında iki saat bekletin</li>
+                    <li>Çikolatayı kalıptan çıkartın. Kare parçalara bölün</li>
+                </ol>
+            </article>
+
+            <footer align = right>
+
+                <nav><h2><strong><em>Afiyet olsun</em></strong></h2></nav>
+
+
+
+
+            </footer>
+
+                
+
+
+
+
+
+        </section>    
+
+
+
+
+
+
+
+            
+        
+        </nav>
+
+
+    </header>
+    
+
+    
+
+
+
+
+</body>
+</html>
