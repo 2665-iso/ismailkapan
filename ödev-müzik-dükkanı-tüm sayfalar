@@ -1,0 +1,192 @@
+/* CSS kodları */
+
+body{
+
+    background-color: darkgrey;
+}
+
+
+h2{
+    color: blue;
+
+
+}
+
+
+h1{
+    
+    color: brown;
+
+}
+
+.li-class{
+    display: inline-block;
+    list-style-type: style type none;
+    font-size: 20px;
+    color: brown
+
+    /* İnline block yanyana yaptı list-style-type none 
+    noktaları kaldırdı */
+}
+
+.text-yellow{
+
+    color: rgb(49, 3, 49);
+
+}
+
+.img{
+    list-style-position: inside;
+    width: 150px;
+    height: 150px;
+}
+
+
+<!--index.html kodları-->
+
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="müzik-dükkanı.css">
+</head>
+<body>
+    <h1 align = "center">Müzik Dükkanım</h1>
+<ul align = "center">
+    <li class="li-class"><a href="index.html">Anasayfa</a></li>
+    <li class="li-class"><a href="products.html">Ürünlerimiz</a></li>
+    <li class="li-class"><a href="about-us.html">Hakkımızda</a></li>
+</ul>
+
+<h2 align ="center">ANASAYFA</h2>
+
+<article>
+    <p>Müzik Dükkanım sitesine hoşgeldiniz! Bu sitede çeşitli müzik-dükkanı
+aletlerini bulabilirsiniz. Uygun fiyatlarımız ve kaliteli ürünlerimiz için 
+<strong><a href="products.html">ÜRÜNLERİMİZ</a></strong> sekmesinden inceleyebilirsiniz.
+
+<h3 align = "center"  class=text-yellow> Sitemizde bulunan müzik aletleri</h3>
+
+<ul align = "center">
+    <li>Gitar</li>
+    <li>Davul Piyano</li>
+    <li>Piyano</li>
+    <li>Keman</li>
+</ul>
+
+
+</p>
+
+
+
+
+</article>
+
+
+
+
+
+</body>
+</html>
+
+<!--products.html kodları-->
+
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link rel="stylesheet" href="müzik-dükkanı.css" class="css">
+</head>
+<body>
+  
+<article> <h1 align = "center">Müzik Dükkanım</h1>
+  <ul align = "center">
+      <li class="li-class"><a href="index.html">Anasayfa</a></li>
+      <li class="li-class"><a href="products.html">Ürünlerimiz</a></li>
+      <li class="li-class"><a href="about-us.html">Hakkımızda</a></li>
+  </ul></article>
+
+
+
+
+
+  <article align = center>
+    
+    
+    
+    
+    <h2>ÜRÜNLERİMİZ</h2>
+
+    <ol>
+     <div><li><img class="img" src="img/accustic-guitar.jpg" alt=""></li></div><p>Gitar</p> 
+      <div><li><img class="img" src="img/drum.jpg" alt=""></li><p>Bateri</p>
+      <div><li><img class="img" src="img/roland-piano.jpg" alt=""></li></div><p>Piyano</p>
+      <div><li><img class="img" src="img/accustic-guitar.jpg" alt=""></li></div><p>Gitar</p>
+      <div><li><img class="img" src="img/drum.jpg" alt=""></li></div><p>Bateri</p>
+      <div><li><img class="img" src="img/roland-piano.jpg" alt=""></li></div><p>Piyano</p>
+  </article>
+
+</body>
+</html>
+
+<!-- about us kodları -->
+
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="müzik-dükkanı.css">
+</head>
+<body>
+    <article>
+
+        <h1 align = "center">Müzik Dükkanım</h1>
+        <ul align = "center">
+            <li class="li-class"><a href="index.html">Anasayfa</a></li>
+            <li class="li-class"><a href="products.html">Ürünlerimiz</a></li>
+            <li class="li-class"><a href="about-us.html">Hakkımızda</a></li>
+        </ul>
+
+        <p>Müzik dükkanım 2022 senesinde kurulmuştur.</p>
+
+        <h2>Vizyonumuz</h2>
+        <p>İnsanlara kaliteli müzik aletleri sağlamak Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+            Blanditiis culpa, dolores quo delectus iste, laborum amet voluptatibus, obcaecati aliquid eaque natus nihil inventore at ullam
+             impedit iusto distinctio consequatur dolorum aliquam. Similique aliquam ducimus nostrum molestiae ex cum qui perferendis exercitationem 
+             magni aspernatur commodi obcaecati, magnam nam veniam nobis, quam natus. Ex, est error.
+    </p>
+
+        
+        <h2>Misyonumuz</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas illum deserunt optio recusandae sed provident minus animi.
+             Blanditiis culpa, dolores quo delectus iste, laborum amet voluptatibus, obcaecati aliquid eaque natus nihil inventore at ullam
+             impedit iusto distinctio consequatur dolorum aliquam. Similique aliquam ducimus nostrum molestiae ex cum qui perferendis exercitationem 
+             magni aspernatur commodi obcaecati, magnam nam veniam nobis, quam natus. Ex, est error.
+    </p>
+
+
+    
+
+
+
+
+
+
+    </article>
+    
+
+
+
+
+
+</body>
+</html>
