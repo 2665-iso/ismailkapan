@@ -1,0 +1,141 @@
+.content1{
+    width: 100%;
+    height: 60px;
+    background-color: rgb(243, 232, 243);
+    padding-bottom: 15px;
+
+    
+}
+
+.searchbar{
+    height:15px;
+    border:none;
+    width:500px;
+    font-size:10px;
+    outline: none;
+    padding-top: 4px;
+    margin-bottom: 0px;
+    
+    
+    
+}
+
+
+.box1{
+width: 38%;
+background-color: rgb(171, 253, 245);
+/* padding: 15px; */
+/* margin-top: 5px; */
+float: left;
+margin-right: 2%;
+height: 80px;
+margin-top: 2px;
+
+padding-bottom: 15px;
+}
+
+
+.box2{
+    width:20%;
+    background-color: rgb(171, 253, 245);
+    /* padding: 3px; */
+    /* margin-top: 5px; */
+    float: left;
+    height:auto;
+    margin-right: 2%;
+    margin-top: 2px;
+    height: 95px;
+    padding: 0px;
+    
+    }
+
+.box3{
+    width: 38%;
+    background-color: rgb(171, 253, 245);
+    /* padding: 3px; */
+    /* margin-top: 5px; */
+    float: left;
+    height: 80px;
+    margin-top: 2px;    
+    padding-bottom: 15px;
+    
+
+}
+
+.buttons{
+    
+    padding-top: 0;
+}
+
+
+
+html 
+
+.content1{
+    width: 100%;
+    height: 60px;
+    background-color: rgb(243, 232, 243);
+    padding-bottom: 15px;
+
+    
+}
+
+.searchbar{
+    height:15px;
+    border:none;
+    width:500px;
+    font-size:10px;
+    outline: none;
+    padding-top: 4px;
+    margin-bottom: 0px;
+    
+    
+    
+}
+
+
+.box1{
+width: 38%;
+background-color: rgb(171, 253, 245);
+/* padding: 15px; */
+/* margin-top: 5px; */
+float: left;
+margin-right: 2%;
+height: 80px;
+margin-top: 2px;
+
+padding-bottom: 15px;
+}
+
+
+.box2{
+    width:20%;
+    background-color: rgb(171, 253, 245);
+    /* padding: 3px; */
+    /* margin-top: 5px; */
+    float: left;
+    height:auto;
+    margin-right: 2%;
+    margin-top: 2px;
+    height: 95px;
+    padding: 0px;
+    
+    }
+
+.box3{
+    width: 38%;
+    background-color: rgb(171, 253, 245);
+    /* padding: 3px; */
+    /* margin-top: 5px; */
+    float: left;
+    height: 80px;
+    margin-top: 2px;    
+    padding-bottom: 15px;
+    
+
+}
+
+.buttons{
+    
+    padding-top: 0;
+}
