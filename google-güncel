@@ -1,0 +1,191 @@
+html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="google.css">
+</head>
+<body>
+    <nav>
+        <div class="ustsol">
+            <a href="">About</a>
+            &nbsp;
+            <a href="">Store</a>
+        <!-- About ve store kısımları ayarlandı. -->
+        </div>
+       
+        <div class="ustsag">
+            <a href="">Gmail</a>
+            &nbsp;
+            <a href="">Images</a>
+            &nbsp;
+            <img src="img/apps-button.png" alt="">
+            &nbsp;
+            <a class="gb_ge gb_4 gb_wb" id="gb_70" href="https://web.archive.org/web/20191130234759/https://accounts.google.com/ServiceLogin?hl=en&amp;passive=true&amp;continue=https://www.google.com/" target="_top">Sign in</a>
+            <!-- burada sağ üst kısımlar ayarlandı -->
+        </div>
+    </nav>
+
+    <article>
+            <div class="logo" align = "center">
+                <img src="img/logo.png" alt="">
+                    <!-- Burada logo atadık.  -->        
+
+            </div>
+
+            
+
+
+
+            <div class="container" align = "center">        
+                <div class="bar">
+                <input class="bar" type="text" title="Search"><a href="#"><img class="voice"src="img/voicelogo.png" alt="#"></a>
+                <!-- burada search bar kısmı tamamlandı -->
+                <div>
+                    
+
+
+                </div>
+
+
+            </div>
+
+            
+            <div class="buttons" align = "center" >
+                <button class="button" type="button">Google Search</button>
+                &nbsp;
+                <button class="button" type="button">I'm Feeling Lucky</button>
+                    <!--Butonları oluşturduk  -->
+            </div>
+    </article>
+
+    <footer class="alttaban">
+        <div id = "soltaban" >
+           <a href="">Advertisement</a></ul>
+           &nbsp;
+           &nbsp;
+           
+           <a href="">Bussines</a></ul>
+           &nbsp;
+           &nbsp;
+           
+           <a href="">Bussines</a></ul>
+            <!-- Burada Sol tabanı tammaladık. -->
+        </div>
+        <div id = "sagtaban" align = "right">
+            <a href="">Privacy</a></ul>
+            &nbsp;
+            &nbsp;
+            
+            <a href="">Terms</a></ul>
+            &nbsp;
+            &nbsp;
+            
+            <a href="">Settings</a></ul>
+             <!-- Burada Sol tabanı tammaladık. -->
+         </div>
+
+
+    </footer>
+
+
+
+
+    
+    
+</body>
+</html>
+
+css
+
+.ustsol{
+    display: inline-block;
+}
+
+.ustsag{
+
+position: relative;
+float: right;
+/* bu şekilde istediğimiz div'i sağa yasladık. */
+}
+
+
+.logo{ 
+    padding-top: 150px;
+    margin-bottom: 20px;
+}
+
+.bar{
+        /* margin: 0 auto; */
+        width:575px;
+        border-radius:30px;
+        border:1px solid #dcdcdc;
+        height: 25px;
+        position: relative;
+        
+}
+
+.buttons{
+  display: inline-block;
+  background-color: #f5f5f5;
+  border:none;
+  color:#707070;
+  font-size:15px;
+  /* padding-bottom: 30px; */
+  /* margin:5px; */
+  border-radius:4px;
+  outline:none;
+  margin-top: 30px;
+ }
+
+ .container{
+     margin: auto;
+ }
+
+ .voice{
+     height: 20px;
+     position: absolute;
+     bottom: 0;
+     left: 550px;
+     /* burayı öğren neden bu şekidle left için manuel ayarlama gerekti. */
+ }    
+
+ .alttaban{
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    width: 100%;
+    height: 30px;
+    padding:15px;
+    background-color: rgb(250, 250, 250);
+    /* bu metot ile en alta flotter'ı sabitledik. */
+ }
+/* 
+ul{
+    display: inline-block;
+    
+} 
+li{
+}
+
+
+
+li:last-child{
+    margin: 40px; */
+
+#soltaban{
+    float: left;
+    
+}
+#sagtaban{
+  float: right;
+  position: relative;
+  right: 40px;
+
+}
+
+
